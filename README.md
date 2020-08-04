@@ -12,18 +12,18 @@ NMT.ipynb
 cornell_movie_dialogs_corpus
 
 3) Trained model Checkpoints - 
-training_checkpoints
+training_checkpoints ,
 training_checkpoints1
    
 4) PreProcessing of Data  - 
-bagofwords.py
-combining.py
-conversations.py
-conversations.pickle
+bagofwords.py ,
+combining.py ,
+conversations.py ,
+conversations.pickle ,
 dummy.py ( To View processed Data )
 
 5) Feature Creation - 
-Features.py ( Creating features and labels as storing in pickle format )
+Features.py ( Creating features and labels and storing in pickle format )
 
 
 The machine translation jupyter notebook can be trained for higher epochs to gain better accuracy , 

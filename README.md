@@ -5,24 +5,24 @@ Encoder - Decoder model ( RNN ) with bahdanau attention and GRU's
 
 Files Description : 
 
-1) Neural machine traslation model 
+1) Neural machine traslation model  - 
 NMT.ipynb
 
-2) Dataset
+2) Dataset - 
 cornell_movie_dialogs_corpus
 
-3) Trained model Checkpoints
+3) Trained model Checkpoints - 
 training_checkpoints
 training_checkpoints1
    
-4) PreProcessing of Data : 
+4) PreProcessing of Data  - 
 bagofwords.py
 combining.py
 conversations.py
 conversations.pickle
 dummy.py ( To View processed Data )
 
-5) Feature Creation
+5) Feature Creation - 
 Features.py ( Creating features and labels as storing in pickle format )
 
 
